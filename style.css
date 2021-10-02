@@ -12,6 +12,11 @@ body{
    width: 100%;
    background:linear-gradient(45deg ,#FF9CE3,#4ab3ff );
 overflow: hidden;
+
+}
+
+.visible{
+    opacity:1;
 }
 
 nav{
